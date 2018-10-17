@@ -7,3 +7,5 @@ A
 
 fix_B
 add feature-A
+
+feature-D
